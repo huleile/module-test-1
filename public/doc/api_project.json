@@ -1,0 +1,1 @@
+{  "name": "SequelizeTest",  "version": "0.0.0",  "description": "SequelizeTest service",  "title": "My Test API Doc",  "url": "http://127.0.0.1:3001",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-12-02T12:04:44.145Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }}
