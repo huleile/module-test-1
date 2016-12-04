@@ -23,9 +23,12 @@
 
 ## 使用
 
-git clone ---
-cd ---
+git clone git@github.com:huleile/module-test-1.git
+
+cd module-test-1
+
 npm install
+
 babel-node app.js
 
 
